@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=jcatanop&theme=algolia&show_icons=true)](https://github.com/jcatanop)
+
+[![Jorge Catano's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jcatanop&theme=algolia&show_icons=true)](https://github.com/jcatanop)
+
